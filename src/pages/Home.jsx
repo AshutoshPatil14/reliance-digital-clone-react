@@ -4,7 +4,7 @@ import "../styles/home.css";
 const Home = () => {
   return (
     <>
-      {/* <Navbar /> */}
+
       <div className="body">
         <section className="hero-banner">
           <img src="../src/assets/images/hero-banner.jpeg" alt="Hero Banner" />

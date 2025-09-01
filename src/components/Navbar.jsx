@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/navbar.css"
-import Home from "../pages/Home";
+
 
 
 const Navbar = () => {
@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
         <div className="search-bar-section">
           <div className="logo">
-            <a >
+            <a href="/">
               <img src="../src/assets/images/logo-white.webp" alt="Reliance Digital Logo" />
             </a>
           </div>
